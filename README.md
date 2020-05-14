@@ -1,4 +1,13 @@
-# calculadoraSimples
+# Calculadora Simples
 
-#Projeto em REACT-Native
+Componentes usados:
+
+- React - native navigation V5
+
+Operações 
+-Soma, Subtração, divisão e multiplicação.
+
+Objetivo:
+
+- O objetivo era fazer algo simples para ajudar no aprendizado.
 
