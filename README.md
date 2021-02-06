@@ -1,7 +1,7 @@
 # Calculadora Simples
 
 <p align="center">
-  <img src="https://github.com/mauriani/calculadoraSimples/blob/master/LayoutCalculadora.jpeg" width="350" alt="accessibility text" height="200">
+  <img src="https://github.com/mauriani/calculadoraSimples/blob/master/LayoutCalculadora.jpeg" width="350" alt="accessibility text" height="280">
 </p>
 
 ## Sobre o projeto
