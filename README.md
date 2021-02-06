@@ -1,7 +1,7 @@
 # Calculadora Simples
 
 <p align="center">
-  <img src="https://github.com/mauriani/calculadoraSimples/blob/master/LayoutCalculadora.jpeg" width="350" alt="accessibility text" height="380">
+  <img src="https://github.com/mauriani/calculadoraSimples/blob/master/LayoutCalculadora.jpeg" width="350" alt="accessibility text">
 </p>
 
 ## Sobre o projeto
@@ -10,7 +10,7 @@ Esse projeto foi realizado em um curso da udemy onde a ideia era construir um ca
 
 ## 🚀 Tecnologias usadas
 
-- React js
+- React Native
 
 ## 💻Instalação
 
